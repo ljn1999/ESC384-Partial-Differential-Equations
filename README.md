@@ -16,7 +16,7 @@ ONLY matlab codes are posted, ie: solutions to assignments are not. Sorry about 
 Only 3 out of 5 assignments contained matlab coding.
 
 ## Updata
-Final aid sheet is uploaded. Some part was written in Chinese lol, sorry about that!
+Final aid sheet is uploaded. Some part was written in Chinese lol, and please zoom in to see my writing clearly. Sorry about that.
 
 ## Contact
 If you find any bugs in my code, or you have any questions, or you just want to chat, please do not hesitate to contact me :)
