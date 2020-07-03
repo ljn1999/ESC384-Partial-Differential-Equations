@@ -3,12 +3,12 @@
 ## Description
 Matlab coding part of assignments of ESC384 (Fall 2019) at the University of Toronto. 
 
-A1: fourise sine and cosine series, and comparison with original functions.
+A1: Fourise sine and cosine series, and comparison with original functions.
 
-A4: implementation of a finite difference heat equation solver.
+A4: Implementation of a finite difference heat equation solver;
     Plot Laplace's equation in an annular domain. 
 
-A5: implementation of a finite difference wave equation solver on the L-shaped domain.
+A5: Implementation of a finite difference wave equation solver on the L-shaped domain.
 
 ## Note
 ONLY matlab codes are posted, ie: solutions to assignments are not. Sorry about that.
